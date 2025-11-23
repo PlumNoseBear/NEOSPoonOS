@@ -1,4 +1,4 @@
-# NEO SpoonOS Gasless Relay
+# NEO SpoonOS Gasless Relay Wibecoding Edition from Qwen-Coder
 
 Этот проект реализует систему gasless-транзакций для NEO N3, интегрированную с SpoonOS через MCP. Пользователи могут выполнять транзакции (например, переводы NEO), не обладая собственным GAS, за счёт сжигания части отправляемого актива (NEO) для покрытия комиссии.
 
