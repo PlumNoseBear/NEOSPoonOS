@@ -1,0 +1,12 @@
+fastmcp
+neo3-core
+neo3-wallet
+neo3-network
+neo3-api
+neo3-boa
+requests
+pytest
+allure-pytest
+fastapi
+uvicorn
+pydantic
